@@ -1,0 +1,23 @@
+@charset "UTF-8";
+.heading
+{
+	color: #4293f5;
+	text-align: center;
+}
+.container
+{
+	hieght: 500px;
+	width: 500px;
+	margin: auto;
+	padding: 60px;
+
+}
+.form
+{
+	background-color: #f2f2f2;
+}
+input
+{
+  width: 100%;
+  height: 5%;
+}
